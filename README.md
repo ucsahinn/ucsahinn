@@ -8,6 +8,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=ucsahinn&style=for-the-badge&color=0f766e&label=PROFILE+VIEWS)](https://github.com/ucsahinn)
 [![GitHub followers](https://img.shields.io/github/followers/ucsahinn?style=for-the-badge&logo=github&color=111827&labelColor=020617)](https://github.com/ucsahinn?tab=followers)
+[![MyVulna](https://img.shields.io/badge/MyVulna-live%20product-0f766e?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://myvuln.io/)
 [![Website](https://img.shields.io/badge/siberdergi.net-0f766e?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://siberdergi.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulascansahin/)
 
@@ -23,7 +24,7 @@ Ben güvenlik odaklı ürünler, AI destekli geliştirme akışları ve operatö
 const ucsahinn = {
   handle: "Mitnick",
   focus: ["Cybersecurity", "AI coding workflows", "Self-hosted tools"],
-  ships: ["PassMan", "Codex prompt systems", "SiberDergi"],
+  ships: ["MyVulna", "PassMan", "Codex prompt systems", "SiberDergi"],
   workingStyle: ["plan first", "approval-gated execution", "evidence-based verification"],
   currentMission: "Build reliable security tools and document them like products"
 };
@@ -34,6 +35,15 @@ const ucsahinn = {
 <table>
   <tr>
     <td width="50%">
+      <h3>🛰️ MyVulna</h3>
+      <p>CVE, URL intelligence, Intel Feed, API v1, alerting and reporting for security teams.</p>
+      <p>
+        <a href="https://myvuln.io/">
+          <img src="https://img.shields.io/badge/live-myvuln.io-0f766e?style=for-the-badge&amp;logo=firefox-browser&amp;logoColor=white" alt="MyVulna live product" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
       <h3>🔐 PassMan</h3>
       <p>Windows Server operatörleri için self-hosted, zero-knowledge parola ve secret yönetimi.</p>
       <p>
@@ -42,6 +52,8 @@ const ucsahinn = {
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🧠 AI agent workflows</h3>
       <p>Codex-first prompt sistemleri, plan/execute/verify döngüleri ve güvenli otomasyon pratikleri.</p>
@@ -51,8 +63,6 @@ const ucsahinn = {
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>📚 SiberDergi</h3>
       <p>Türkçe siber güvenlik içerikleri, pratik araştırma notları ve anlaşılır teknik anlatımlar.</p>
@@ -62,11 +72,22 @@ const ucsahinn = {
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🚀 Release discipline</h3>
       <p>Installer doğrulama, manifest kontrolü, changelog, Git hygiene ve publish öncesi kanıt üretimi.</p>
       <p>
         <img src="https://img.shields.io/badge/verify-before%20release-22c55e?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="Verify before release" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🧭 Public trust surfaces</h3>
+      <p>Private-source ürünler için güvenli public repo, support policy ve vulnerability reporting yüzeyi.</p>
+      <p>
+        <a href="https://github.com/ucsahinn/myvulna-public">
+          <img src="https://img.shields.io/badge/MyVulna-public%20hub-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="MyVulna public hub" />
+        </a>
       </p>
     </td>
   </tr>
@@ -108,7 +129,19 @@ const ucsahinn = {
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="50%">
+      <h3>MyVulna public hub</h3>
+      <p>Public-safe TR/EN product showcase for a private-source threat intelligence platform.</p>
+      <p>
+        <a href="https://github.com/ucsahinn/myvulna-public">
+          <img src="https://img.shields.io/badge/GitHub-View%20repo-111827?style=flat-square&amp;logo=github" alt="View MyVulna public repo" />
+        </a>
+        <a href="https://myvuln.io/">
+          <img src="https://img.shields.io/badge/Live-myvuln.io-0f766e?style=flat-square&amp;logo=firefox-browser&amp;logoColor=white" alt="Visit MyVulna" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
       <h3>PassMan releases</h3>
       <p>Public release hub, operator docs, signed update manifest surface and support pages.</p>
       <p>
@@ -117,7 +150,9 @@ const ucsahinn = {
         </a>
       </p>
     </td>
-    <td width="33%">
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>Codex prompt architect</h3>
       <p>Reusable Codex prompt architecture for plan-first, approval-gated engineering workflows.</p>
       <p>
@@ -126,7 +161,7 @@ const ucsahinn = {
         </a>
       </p>
     </td>
-    <td width="33%">
+    <td width="50%">
       <h3>SiberDergi</h3>
       <p>Cyber security publishing and practical knowledge base for Turkish readers.</p>
       <p>
