@@ -112,16 +112,58 @@
 
 </div>
 
-## Stack
+## Contribution Snake
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,supabase,postgres,sqlite,prisma,powershell,cs,windows,git,github,githubactions,vercel,cloudflare" alt="TypeScript, JavaScript, React, Next.js, Node.js, Supabase, PostgreSQL, SQLite, Prisma, PowerShell, C#, Windows, Git, GitHub, GitHub Actions, Vercel, Cloudflare" />
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ucsahinn/ucsahinn/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ucsahinn/ucsahinn/output/github-contribution-grid-snake.svg" />
+  <img width="96%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ucsahinn/ucsahinn/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+## Tech Stack
+
+<p>
+  <strong>Languages:</strong>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&amp;logo=powershell&amp;logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt="C#" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Security%20products-0f766e?style=for-the-badge&amp;logo=securityscorecard&amp;logoColor=white" alt="Security products" />
-  <img src="https://img.shields.io/badge/Signed%20releases-f59e0b?style=for-the-badge&amp;logo=github&amp;logoColor=111827" alt="Signed releases" />
+<p>
+  <strong>Frameworks:</strong>
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-087EA4?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
+</p>
+
+<p>
+  <strong>Data:</strong>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=111827" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&amp;logo=prisma&amp;logoColor=white" alt="Prisma" />
+</p>
+
+<p>
+  <strong>Platforms:</strong>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare" />
+</p>
+
+<p>
+  <strong>Workflow:</strong>
   <img src="https://img.shields.io/badge/OpenAI%20Codex-111827?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Security%20Products-0f766e?style=for-the-badge&amp;logo=securityscorecard&amp;logoColor=white" alt="Security products" />
+  <img src="https://img.shields.io/badge/Signed%20Releases-f59e0b?style=for-the-badge&amp;logo=github&amp;logoColor=111827" alt="Signed releases" />
+  <img src="https://img.shields.io/badge/Git-ef4444?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
 </p>
 
 ---
