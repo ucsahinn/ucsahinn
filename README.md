@@ -47,7 +47,7 @@ const ucsahinn = {
       <h3>🔐 PassMan</h3>
       <p>Windows Server operatörleri için self-hosted, zero-knowledge parola ve secret yönetimi.</p>
       <p>
-        <a href="https://github.com/ucsahinn/passman-releases">
+        <a href="https://github.com/ucsahinn/passman">
           <img src="https://img.shields.io/badge/release%20hub-view-f59e0b?style=for-the-badge&amp;logo=github&amp;logoColor=111827" alt="PassMan release hub" />
         </a>
       </p>
@@ -85,7 +85,7 @@ const ucsahinn = {
       <h3>🧭 Public trust surfaces</h3>
       <p>Private-source ürünler için güvenli public repo, support policy ve vulnerability reporting yüzeyi.</p>
       <p>
-        <a href="https://github.com/ucsahinn/myvulna-public">
+        <a href="https://github.com/ucsahinn/myvuln">
           <img src="https://img.shields.io/badge/MyVulna-public%20hub-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="MyVulna public hub" />
         </a>
       </p>
@@ -133,7 +133,7 @@ const ucsahinn = {
       <h3>MyVulna public hub</h3>
       <p>Public-safe TR/EN product showcase for a private-source threat intelligence platform.</p>
       <p>
-        <a href="https://github.com/ucsahinn/myvulna-public">
+        <a href="https://github.com/ucsahinn/myvuln">
           <img src="https://img.shields.io/badge/GitHub-View%20repo-111827?style=flat-square&amp;logo=github" alt="View MyVulna public repo" />
         </a>
         <a href="https://myvuln.io/">
@@ -145,7 +145,7 @@ const ucsahinn = {
       <h3>PassMan releases</h3>
       <p>Public release hub, operator docs, signed update manifest surface and support pages.</p>
       <p>
-        <a href="https://github.com/ucsahinn/passman-releases">
+        <a href="https://github.com/ucsahinn/passman">
           <img src="https://img.shields.io/badge/GitHub-View%20repo-111827?style=flat-square&amp;logo=github" alt="View PassMan releases repo" />
         </a>
       </p>
