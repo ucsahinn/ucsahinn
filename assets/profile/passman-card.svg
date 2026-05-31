@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270" role="img" aria-labelledby="title desc">
+  <title id="title">PassMan repository card</title>
+  <desc id="desc">Premium GitHub profile card for the PassMan public repository.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.58" stop-color="#111827"/>
+      <stop offset="1" stop-color="#92400e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="15%" r="74%">
+      <stop offset="0" stop-color="#fbbf24" stop-opacity="0.42"/>
+      <stop offset="0.42" stop-color="#f59e0b" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-8%" y="-12%" width="116%" height="124%">
+      <feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#020617" flood-opacity="0.38"/>
+    </filter>
+  </defs>
+  <rect x="14" y="14" width="872" height="242" rx="28" fill="url(#bg)" filter="url(#shadow)"/>
+  <rect x="15.5" y="15.5" width="869" height="239" rx="26.5" fill="url(#glow)" stroke="#f59e0b" stroke-opacity="0.38"/>
+  <path d="M54 214 C130 150 222 206 288 170 C370 126 442 166 515 137 C636 88 721 140 846 90" fill="none" stroke="#fbbf24" stroke-width="3" stroke-opacity="0.24"/>
+  <g transform="translate(56 54)">
+    <rect width="70" height="70" rx="18" fill="#f59e0b"/>
+    <path d="M22 34h26a8 8 0 018 8v11H14V42a8 8 0 018-8z" fill="#111827"/>
+    <path d="M24 34v-8a11 11 0 0122 0v8" fill="none" stroke="#111827" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <text x="150" y="82" fill="#fff7ed" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="800">PassMan</text>
+  <text x="150" y="120" fill="#fde68a" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Self-hosted release hub</text>
+  <text x="150" y="153" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="18">Windows Server vault releases, MSI assets, signed update checks and operator docs.</text>
+  <g transform="translate(150 184)" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">
+    <rect width="116" height="32" rx="16" fill="#f59e0b"/>
+    <text x="18" y="21" fill="#111827">RELEASE</text>
+    <rect x="128" width="126" height="32" rx="16" fill="#111827" stroke="#f59e0b" stroke-opacity="0.48"/>
+    <text x="147" y="21" fill="#fde68a">SIGNED MSI</text>
+    <rect x="266" width="88" height="32" rx="16" fill="#0f766e"/>
+    <text x="284" y="21" fill="#f8fafc">DOCS</text>
+  </g>
+  <text x="692" y="222" fill="#fde68a" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">ucsahinn/passman</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270" role="img" aria-labelledby="title desc">
+  <title id="title">Codex Enterprise Prompt Architect repository card</title>
+  <desc id="desc">Premium GitHub profile card for the Codex Enterprise Prompt Architect repository.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.58" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#075985"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="80%" cy="16%" r="74%">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.42"/>
+      <stop offset="0.44" stop-color="#0891b2" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-8%" y="-12%" width="116%" height="124%">
+      <feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#020617" flood-opacity="0.38"/>
+    </filter>
+  </defs>
+  <rect x="14" y="14" width="872" height="242" rx="28" fill="url(#bg)" filter="url(#shadow)"/>
+  <rect x="15.5" y="15.5" width="869" height="239" rx="26.5" fill="url(#glow)" stroke="#38bdf8" stroke-opacity="0.34"/>
+  <path d="M68 206h168M68 178h112M68 150h206M620 80l58 44-58 44M780 80l-58 44 58 44" fill="none" stroke="#38bdf8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity="0.22"/>
+  <g transform="translate(56 54)">
+    <rect width="70" height="70" rx="18" fill="#0891b2"/>
+    <path d="M29 22l-15 14 15 14M41 22l15 14-15 14" fill="none" stroke="#f8fafc" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="150" y="82" fill="#fff7ed" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="800">Codex Architect</text>
+  <text x="150" y="120" fill="#bae6fd" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Prompt engineering system</text>
+  <text x="150" y="153" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="18">Plan-first Codex workflows, approval gates, browser QA and evaluation prompts.</text>
+  <g transform="translate(150 184)" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">
+    <rect width="98" height="32" rx="16" fill="#0891b2"/>
+    <text x="18" y="21" fill="#f8fafc">CODEX</text>
+    <rect x="110" width="124" height="32" rx="16" fill="#111827" stroke="#38bdf8" stroke-opacity="0.48"/>
+    <text x="128" y="21" fill="#bae6fd">PLAN-FIRST</text>
+    <rect x="246" width="108" height="32" rx="16" fill="#f59e0b"/>
+    <text x="264" y="21" fill="#111827">PROMPTS</text>
+  </g>
+  <text x="520" y="222" fill="#bae6fd" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">ucsahinn/codex-enterprise-prompt-architect</text>
+</svg>

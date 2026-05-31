@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/docs-myvuln.io-0891b2?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="MyVuln docs" />
   </a>
   <a href="https://github.com/ucsahinn/passman/releases/latest">
-    <img src="https://img.shields.io/badge/PassMan-v1.6.6-f59e0b?style=for-the-badge&amp;logo=github&amp;logoColor=111827" alt="PassMan latest release" />
+    <img src="https://img.shields.io/github/v/release/ucsahinn/passman?style=for-the-badge&amp;logo=github&amp;label=PassMan&amp;color=f59e0b&amp;labelColor=111827" alt="PassMan latest release" />
   </a>
   <a href="https://siberdergi.net">
     <img src="https://img.shields.io/badge/SiberDergi-live-111827?style=for-the-badge&amp;logo=firefox-browser&amp;logoColor=white" alt="SiberDergi live" />
@@ -39,7 +39,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ucsahinn/myvuln">
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&amp;height=132&amp;color=0:0d1117,100:0f766e&amp;text=MyVuln&amp;fontColor=f8fafc&amp;fontSize=34&amp;desc=Threat%20intelligence%20%C2%B7%20CVE%20%C2%B7%20URL%20intel&amp;descSize=14&amp;descAlignY=72" alt="MyVuln repository card" />
+        <img width="100%" src="./assets/profile/myvuln-card.svg" alt="MyVuln repository card" />
       </a>
       <br />
       <a href="https://github.com/ucsahinn/myvuln/stargazers">
@@ -54,7 +54,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ucsahinn/passman">
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&amp;height=132&amp;color=0:0d1117,100:f59e0b&amp;text=PassMan&amp;fontColor=f8fafc&amp;fontSize=34&amp;desc=Self-hosted%20vault%20%C2%B7%20MSI%20%C2%B7%20signed%20releases&amp;descSize=14&amp;descAlignY=72" alt="PassMan repository card" />
+        <img width="100%" src="./assets/profile/passman-card.svg" alt="PassMan repository card" />
       </a>
       <br />
       <a href="https://github.com/ucsahinn/passman/stargazers">
@@ -71,7 +71,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ucsahinn/codex-enterprise-prompt-architect">
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&amp;height=132&amp;color=0:0d1117,100:0891b2&amp;text=Codex%20Architect&amp;fontColor=f8fafc&amp;fontSize=30&amp;desc=Plan-first%20%C2%B7%20approval-gated%20%C2%B7%20browser%20QA&amp;descSize=14&amp;descAlignY=72" alt="Codex Enterprise Prompt Architect repository card" />
+        <img width="100%" src="./assets/profile/codex-card.svg" alt="Codex Enterprise Prompt Architect repository card" />
       </a>
       <br />
       <a href="https://github.com/ucsahinn/codex-enterprise-prompt-architect/stargazers">
@@ -83,7 +83,7 @@
       <img src="https://img.shields.io/badge/Codex-workflow-111827?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="Codex workflow" />
     </td>
     <td width="50%" valign="top">
-      <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&amp;height=128&amp;color=0:0d1117,100:0f766e&amp;text=Live%20Surfaces&amp;fontColor=f8fafc&amp;fontSize=28&amp;desc=myvuln.io%20%C2%B7%20docs%20%C2%B7%20siberdergi.net&amp;descSize=14&amp;descAlignY=70" alt="Live product surfaces" />
+      <img width="100%" src="./assets/profile/surfaces-card.svg" alt="Live product surfaces" />
       <br />
       <a href="https://myvuln.io/">
         <img src="https://img.shields.io/badge/MyVuln-live-0f766e?style=flat-square&amp;logo=firefox-browser&amp;logoColor=white" alt="MyVuln live" />
