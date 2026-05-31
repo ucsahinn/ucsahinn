@@ -8,7 +8,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=ucsahinn&style=for-the-badge&color=0f766e&label=PROFILE+VIEWS)](https://github.com/ucsahinn)
 [![GitHub followers](https://img.shields.io/github/followers/ucsahinn?style=for-the-badge&logo=github&color=111827&labelColor=020617)](https://github.com/ucsahinn?tab=followers)
-[![MyVulna](https://img.shields.io/badge/MyVulna-live%20product-0f766e?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://myvuln.io/)
+[![MyVuln](https://img.shields.io/badge/MyVuln-live%20product-0f766e?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://myvuln.io/)
 [![Website](https://img.shields.io/badge/siberdergi.net-0f766e?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://siberdergi.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulascansahin/)
 
@@ -24,7 +24,7 @@ Ben güvenlik odaklı ürünler, AI destekli geliştirme akışları ve operatö
 const ucsahinn = {
   handle: "Mitnick",
   focus: ["Cybersecurity", "AI coding workflows", "Self-hosted tools"],
-  ships: ["MyVulna", "PassMan", "Codex prompt systems", "SiberDergi"],
+  ships: ["MyVuln", "PassMan", "Codex prompt systems", "SiberDergi"],
   workingStyle: ["plan first", "approval-gated execution", "evidence-based verification"],
   currentMission: "Build reliable security tools and document them like products"
 };
@@ -35,11 +35,11 @@ const ucsahinn = {
 <table>
   <tr>
     <td width="50%">
-      <h3>🛰️ MyVulna</h3>
+      <h3>🛰️ MyVuln</h3>
       <p>CVE, URL intelligence, Intel Feed, API v1, alerting and reporting for security teams.</p>
       <p>
         <a href="https://myvuln.io/">
-          <img src="https://img.shields.io/badge/live-myvuln.io-0f766e?style=for-the-badge&amp;logo=firefox-browser&amp;logoColor=white" alt="MyVulna live product" />
+          <img src="https://img.shields.io/badge/live-myvuln.io-0f766e?style=for-the-badge&amp;logo=firefox-browser&amp;logoColor=white" alt="MyVuln live product" />
         </a>
       </p>
     </td>
@@ -86,7 +86,7 @@ const ucsahinn = {
       <p>Private-source ürünler için güvenli public repo, support policy ve vulnerability reporting yüzeyi.</p>
       <p>
         <a href="https://github.com/ucsahinn/myvuln">
-          <img src="https://img.shields.io/badge/MyVulna-public%20hub-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="MyVulna public hub" />
+          <img src="https://img.shields.io/badge/MyVuln-public%20hub-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="MyVuln public hub" />
         </a>
       </p>
     </td>
@@ -130,23 +130,23 @@ const ucsahinn = {
 <table>
   <tr>
     <td width="50%">
-      <h3>MyVulna public hub</h3>
+      <h3>MyVuln public hub</h3>
       <p>Public-safe TR/EN product showcase for a private-source threat intelligence platform.</p>
       <p>
         <a href="https://github.com/ucsahinn/myvuln">
-          <img src="https://img.shields.io/badge/GitHub-View%20repo-111827?style=flat-square&amp;logo=github" alt="View MyVulna public repo" />
+          <img src="https://img.shields.io/badge/GitHub-View%20repo-111827?style=flat-square&amp;logo=github" alt="View MyVuln public repo" />
         </a>
         <a href="https://myvuln.io/">
-          <img src="https://img.shields.io/badge/Live-myvuln.io-0f766e?style=flat-square&amp;logo=firefox-browser&amp;logoColor=white" alt="Visit MyVulna" />
+          <img src="https://img.shields.io/badge/Live-myvuln.io-0f766e?style=flat-square&amp;logo=firefox-browser&amp;logoColor=white" alt="Visit MyVuln" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3>PassMan releases</h3>
+      <h3>PassMan public hub</h3>
       <p>Public release hub, operator docs, signed update manifest surface and support pages.</p>
       <p>
         <a href="https://github.com/ucsahinn/passman">
-          <img src="https://img.shields.io/badge/GitHub-View%20repo-111827?style=flat-square&amp;logo=github" alt="View PassMan releases repo" />
+          <img src="https://img.shields.io/badge/GitHub-View%20repo-111827?style=flat-square&amp;logo=github" alt="View PassMan public repo" />
         </a>
       </p>
     </td>
