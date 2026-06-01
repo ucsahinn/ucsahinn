@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;color=0:020617,42:0f766e,100:f59e0b&amp;section=header&amp;text=Ula%C5%9F%20Can%20%C5%9Eahin&amp;fontColor=fff7ed&amp;fontSize=48&amp;fontAlignY=34&amp;desc=MyVuln%20%C2%B7%20PassMan%20%C2%B7%20Codex%20workflows%20%C2%B7%20Security%20products&amp;descAlignY=58&amp;descSize=15" alt="Ulaş Can Şahin profile banner" />
 
-<h3>Security products, release hubs and AI-assisted engineering workflows.</h3>
+<h3>Security products and AI-assisted engineering workflows.</h3>
 
 <p>
   <a href="https://myvuln.io/">
