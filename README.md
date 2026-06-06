@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;color=0:020617,42:0f766e,100:f59e0b&amp;section=header&amp;text=&amp;fontColor=fff7ed&amp;fontSize=48&amp;fontAlignY=34&amp;desc=MyVuln%20%C2%B7%20PassMan%20%C2%B7%20Codex%20workflows%20%C2%B7%20Security%20products&amp;descAlignY=58&amp;descSize=15" alt="Ulaş Can Şahin profile banner" />
 
-<h3>Building security products, self-hosted tools and AI-assisted engineering workflows.</h3>
+<h3>Security product builder focused on vulnerability intelligence, self-hosted vaults and Codex-driven engineering systems.</h3>
 
 <p>
   <a href="https://myvuln.io/">
@@ -23,7 +23,7 @@
 </p>
 
 <p>
-  I turn private-source security products into public-safe trust surfaces:
+  I build public-safe trust surfaces for security products:
   live demos, release hubs, operator docs, support boundaries and repeatable agent workflows.
 </p>
 
@@ -58,7 +58,19 @@
 - AI-assisted engineering workflows that force planning, scoped execution, verification and clean handoff.
 - Turkish and English documentation for operators, buyers and technical reviewers.
 
-## Featured Repos and Surfaces
+## Operating Loop
+
+| Step | How I use it |
+| --- | --- |
+| Research | Read the repo, docs, threat boundaries and release context before changing anything. |
+| Plan | Turn fuzzy goals into scoped work, verification gates and rollback-aware steps. |
+| Execute | Ship focused changes without weakening security, validation or support boundaries. |
+| Verify | Run the narrowest useful checks first, then broaden when the blast radius requires it. |
+| Ship | Publish clean docs, releases and handoff notes that a reviewer can trust. |
+
+## Featured Repos Worth Checking
+
+If you want to follow or star something useful, start with these:
 
 <table>
   <tr>
