@@ -17,6 +17,9 @@
   <a href="https://github.com/ucsahinn/context-engineering-project-starter">
     <img src="https://img.shields.io/badge/Context%20Engineering-starter-7c3aed?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Context Engineering Project Starter" />
   </a>
+  <a href="https://github.com/ucsahinn/codex-enterprise-starter">
+    <img src="https://img.shields.io/badge/Codex%20Enterprise-starter-0f172a?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Codex Enterprise Starter" />
+  </a>
   <a href="https://siberdergi.net">
     <img src="https://img.shields.io/badge/SiberDergi-live-111827?style=for-the-badge&amp;logo=firefox-browser&amp;logoColor=white" alt="SiberDergi live" />
   </a>
@@ -48,6 +51,7 @@
 | Threat intelligence and CVE workflows | [MyVuln live product](https://myvuln.io/) and [public repository](https://github.com/ucsahinn/myvuln) |
 | Self-hosted password and secret management | [PassMan release hub](https://github.com/ucsahinn/passman) |
 | AI-coding project context and guardrails | [Context Engineering Project Starter](https://github.com/ucsahinn/context-engineering-project-starter) |
+| Enterprise Codex setup with skills, agents, MCP and approval flags | [Codex Enterprise Starter](https://github.com/ucsahinn/codex-enterprise-starter) |
 | Codex prompt systems for engineering workflows | [Codex Enterprise Prompt Architect](https://github.com/ucsahinn/codex-enterprise-prompt-architect) |
 | Turkish cybersecurity content | [SiberDergi](https://siberdergi.net) |
 
@@ -55,7 +59,7 @@
 
 - Public-safe product hubs for security tools whose source code or operational data must stay private.
 - Self-hosted Windows release surfaces with signed manifests, operator runbooks and support evidence rules.
-- AI-assisted engineering workflows that force planning, scoped execution, verification and clean handoff.
+- AI-assisted engineering workflows that force skill routing, agent delegation, scoped execution, verification and clean handoff.
 - Turkish and English documentation for operators, buyers and technical reviewers.
 
 ## Operating Loop
@@ -133,6 +137,24 @@ If you want to follow or star something useful, start with these:
         <img src="https://img.shields.io/github/last-commit/ucsahinn/codex-enterprise-prompt-architect?style=flat-square&amp;logo=git&amp;color=0f766e" alt="Codex Enterprise Prompt Architect last commit" />
       </a>
       <img src="https://img.shields.io/badge/Codex-workflow-111827?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="Codex workflow" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/ucsahinn/codex-enterprise-starter">
+        <img width="100%" src="./assets/profile/enterprise-starter-card.svg" alt="Codex Enterprise Starter repository card" />
+      </a>
+      <br />
+      <a href="https://github.com/ucsahinn/codex-enterprise-starter/stargazers">
+        <img src="https://img.shields.io/github/stars/ucsahinn/codex-enterprise-starter?style=flat-square&amp;logo=github&amp;label=stars&amp;color=f59e0b" alt="Codex Enterprise Starter stars" />
+      </a>
+      <a href="https://github.com/ucsahinn/codex-enterprise-starter/commits/main">
+        <img src="https://img.shields.io/github/last-commit/ucsahinn/codex-enterprise-starter?style=flat-square&amp;logo=git&amp;color=0f766e" alt="Codex Enterprise Starter last commit" />
+      </a>
+      <a href="https://github.com/ucsahinn/codex-enterprise-starter/blob/main/README.tr.md">
+        <img src="https://img.shields.io/badge/TR%20docs-ready-b91c1c?style=flat-square&amp;logo=readthedocs&amp;logoColor=white" alt="Codex Enterprise Starter Turkish docs" />
+      </a>
+      <img src="https://img.shields.io/badge/skills%20%2B%20agents-routed-111827?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="Skills and agents routed" />
     </td>
   </tr>
   <tr>
