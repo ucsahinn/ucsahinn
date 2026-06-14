@@ -1,30 +1,59 @@
-# Ulaş Can Şahin
+# Ulas Can Sahin
 
 <p align="center">
-  <a href="README.de.md">🇩🇪 Deutsch</a> ·
-  <a href="README.es.md">🇪🇸 Español</a> ·
-  <a href="README.md">🇬🇧 English</a> ·
-  <a href="README.pt-BR.md">🇧🇷 Português (Brasil)</a> ·
-  <a href="README.tr.md">🇹🇷 Türkçe</a> ·
-  <a href="README.fr.md">🇫🇷 French</a>
+  <a href="README.de.md">&#127465;&#127466; Deutsch</a> ? <a href="README.es.md">&#127466;&#127480; Espa&ntilde;ol</a> ? <a href="README.md">&#127468;&#127463; English</a> ? <a href="README.pt-BR.md">&#127463;&#127479; Portugu&ecirc;s (Brasil)</a> ? <a href="README.tr.md">&#127481;&#127479; T&uuml;rk&ccedil;e</a> ? <a href="README.fr.md">&#127467;&#127479; French</a>
 </p>
 
-Vulnerability intelligence, self-hosted vault ürünleri ve Codex destekli mühendislik sistemlerine odaklanan security product builder.
+Security urunleri, self-hosted vault isleri, Codex workflow lari ve public-safe engineering dokumantasyonu icin public profil ve proje giris sayfasi.
 
-## Buradan Başla
+## Bu repo neden var
 
-| Aradığın şey | Başlangıç |
+Security urunleri, self-hosted vault isleri, Codex workflow lari ve public-safe engineering dokumantasyonu icin public profil ve proje giris sayfasi.
+
+Bu lokalize giris sayfasi, okuyucunun repoyu kisa bir dil etiketine bakarak tahmin etmemesi icin tutulur. Derin kanonik referans README.md dosyasinda kalir; bu sayfa dogru baslangic noktasini, guvenlik sinirini ve dogrulama yolunu secmek icin yeterli baglam verir.
+
+## Kimler icin
+
+MyVuln, PassMan veya Codex starter repolarini hizlica anlamak isteyen guvenlik ekipleri, operator lar, reviewer lar ve gelistiriciler.
+
+## Hizli baslangic
+
+| Ihtiyacin varsa... | Ac |
 | --- | --- |
-| Tehdit istihbaratı ve CVE workflow'ları | [MyVuln](https://myvuln.io/) |
-| Self-hosted parola ve secret yönetimi | [PassMan](https://github.com/ucsahinn/passman) |
-| Codex proje context'i ve guardrail'leri | [Context Engineering Project Starter](https://github.com/ucsahinn/context-engineering-project-starter) |
-| Enterprise Codex setup'ı | [Codex Enterprise Starter](https://github.com/ucsahinn/codex-enterprise-starter) |
-| Codex prompt sistemleri | [Codex Enterprise Prompt Architect](https://github.com/ucsahinn/codex-enterprise-prompt-architect) |
+| MyVuln live product | [https://myvuln.io/](https://myvuln.io/) |
+| PassMan release hub | [https://github.com/ucsahinn/passman](https://github.com/ucsahinn/passman) |
+| Codex Skill Forge | [https://github.com/ucsahinn/codex-skill-forge](https://github.com/ucsahinn/codex-skill-forge) |
+| Codex CLI Handbook | [https://github.com/ucsahinn/codex-cli-best-practice](https://github.com/ucsahinn/codex-cli-best-practice) |
+| Prompt Architect | [https://github.com/ucsahinn/codex-enterprise-prompt-architect](https://github.com/ucsahinn/codex-enterprise-prompt-architect) |
 
-## Çalışma Tarzı
+## Repo haritasi
 
-- Security ürünleri için public-safe ürün, doküman ve güven yüzeyleri.
-- Windows-first release, setup ve operator deneyimi.
-- Skill, agent, validasyon ve net handoff içeren tekrar edilebilir Codex workflow'ları.
+- README.md - canonical profile page
+- README.tr.md / README.de.md / README.es.md / README.pt-BR.md / README.fr.md - localized front doors
+- GitHub profile repositories - project-specific source of truth
 
-Tam kanonik profil sayfası [README.md](README.md) dosyasında.
+## Validasyon ve release hijyeni
+
+Commit veya yayin oncesinde linkler, Markdown, mevcut repo validasyonu ve Gitleaks kontrol edilmelidir.
+
+Onerilen release/readiness yolu:
+
+1. Ilgili README ve bagli dokumanlari incele.
+2. Repo validasyon komutu varsa calistir.
+3. Markdown linklerini ve lokal assetleri kontrol et.
+4. Gitleaks veya yapilandirilmis secret scan i calistir.
+5. Push sonrasi yayinin bittigini soylemeden once origin/main dogrulamasi yap.
+
+## Guvenlik ve public scope siniri
+
+Profil sayfasi public repolara ve canli yuzeylere gider. Private kaynak kod, musteri verisi, secret ve local operator path bu repo yuzeyinde tutulmaz.
+
+## Katki ve bakim
+
+Scope, kurulum adimlari, release kurallari veya guvenlik sinirlari degistiginde lokalize sayfalari kanonik README ile ayni cizgide tut. Repo, canli urun dokumani veya public release kanitiyla desteklenmeyen iddia ekleme.
+
+## Eksiksizlik standardi
+
+Bu lokalize README kisa not degildir. Amac, baslangic, repo yuzeyleri, validasyon, guvenlik siniri ve kanonik referanslari aciklar.
+
+Kanonik referans: [README.md](README.md).
