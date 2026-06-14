@@ -5,6 +5,10 @@
 <h3>Security product builder focused on vulnerability intelligence, self-hosted vaults and Codex-driven engineering systems.</h3>
 
 <p>
+  🌐 <strong>Languages:</strong> 🇩🇪 Deutsch · 🇪🇸 Español · 🇬🇧 English · 🇧🇷 Português (Brasil) · 🇹🇷 Türkçe · 🇫🇷 French
+</p>
+
+<p>
   <a href="https://myvuln.io/">
     <img src="https://img.shields.io/badge/MyVuln-live-0f766e?style=for-the-badge&amp;logo=firefox-browser&amp;logoColor=white" alt="MyVuln live" />
   </a>
