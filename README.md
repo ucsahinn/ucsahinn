@@ -5,7 +5,13 @@
 <h3>Security product builder focused on vulnerability intelligence, self-hosted vaults and Codex-driven engineering systems.</h3>
 
 <p>
-  🌐 <strong>Languages:</strong> 🇩🇪 Deutsch · 🇪🇸 Español · 🇬🇧 English · 🇧🇷 Português (Brasil) · 🇹🇷 Türkçe · 🇫🇷 French
+  🌐 <strong>Languages:</strong>
+  <a href="README.de.md">🇩🇪 Deutsch</a> ·
+  <a href="README.es.md">🇪🇸 Español</a> ·
+  <a href="README.md">🇬🇧 English</a> ·
+  <a href="README.pt-BR.md">🇧🇷 Português (Brasil)</a> ·
+  <a href="README.tr.md">🇹🇷 Türkçe</a> ·
+  <a href="README.fr.md">🇫🇷 French</a>
 </p>
 
 <p>
