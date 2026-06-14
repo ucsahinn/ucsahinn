@@ -1,59 +1,142 @@
-# Ulas Can Sahin
+# &#128640; Ulas Can Sahin - vollständige deutsche README
 
-<p align="center">
-  <a href="README.de.md">&#127465;&#127466; Deutsch</a> ? <a href="README.es.md">&#127466;&#127480; Espa&ntilde;ol</a> ? <a href="README.md">&#127468;&#127463; English</a> ? <a href="README.pt-BR.md">&#127463;&#127479; Portugu&ecirc;s (Brasil)</a> ? <a href="README.tr.md">&#127481;&#127479; T&uuml;rk&ccedil;e</a> ? <a href="README.fr.md">&#127467;&#127479; French</a>
-</p>
+[&#127468;&#127463; English](README.md) | [&#127465;&#127466; Deutsch](README.de.md) | [&#127466;&#127480; Español](README.es.md) | [&#127463;&#127479; Português (Brasil)](README.pt-BR.md) | [&#127481;&#127479; Türkçe](README.tr.md) | [&#127467;&#127479; Français](README.fr.md)
 
-Oeffentliche Profil- und Projektstartseite fuer Security-Produkte, selbst gehostete Vaults, Codex-Workflows und public-safe Engineering-Dokumentation.
+> Diese Datei ist eine vollständige deutsche Einstiegseite, kein kurzer Platzhalter. Sie fasst Zweck, Grenzen, Bedienung, Prüfung, Sicherheit und Veröffentlichung in einer Datei zusammen.
+>
+> Kanonische englische README: [README.md](README.md)
 
-## Warum dieses Repository existiert
+Public GitHub profile and repository gateway for Ulas Can Sahin.
 
-Oeffentliche Profil- und Projektstartseite fuer Security-Produkte, selbst gehostete Vaults, Codex-Workflows und public-safe Engineering-Dokumentation.
+Beginnen Sie mit der kanonischen README, wenn Sie die aktuellste englische Beschreibung brauchen. Verwenden Sie diese Seite, wenn Sie den gleichen Vertrag auf Deutsch lesen wollen.
 
-Diese lokalisierte Startseite wird gepflegt, damit Leser das Repository nicht nur ueber ein kurzes Sprach-Badge verstehen muessen. Die tiefe kanonische Referenz bleibt in README.md; diese Seite enthaelt genug Kontext, um den richtigen Einstieg, die Sicherheitsgrenze und die Verifikation zu waehlen.
+## Status und Vertrauensrahmen
 
-## Fuer wen es gedacht ist
+|Bereich | Details|
+|--- | ---|
+|Status | Public repository: ucsahinn/ucsahinn|
+|Wahrheit | [Kanonische englische README](README.md)|
+|Benutzer | Visitors who want to understand what Ulas ships.; Recruiters or collaborators looking for public project context.|
+|Prüfung | Language links point to existing files.; Profile assets render from tracked SVG files.|
+|Sicherheit | Routes visitors to active public projects without hiding the project boundaries.; Keeps language navigation visible at the top of the profile README.|
 
-Security-Teams, Betreiber, Reviewer und Entwickler, die MyVuln, PassMan oder die Codex-Starter-Repos schnell einordnen moechten.
+## Was dieses Repository ist
+
+- A profile-level entry point for shipped public repositories.
+- A language-aware directory for Codex, security, product and documentation projects.
+- A lightweight trust surface that points readers to the right repository instead of duplicating every project page.
+- A place to show contribution signal, selected repository cards and current working areas.
+
+## Was es nicht ist
+
+- Not the source of truth for each product or package.
+- Not a release channel for installers or archives.
+- Not a place for private client, token, billing or infrastructure details.
+- Not a replacement for each repository README, SECURITY file or release notes.
+
+## Für wen es gedacht ist
+
+- Visitors who want to understand what Ulas ships.
+- Recruiters or collaborators looking for public project context.
+- Users who need the right repo quickly.
+- Maintainers checking that the profile stays public-safe.
 
 ## Schnellstart
 
-| Wenn du brauchst... | Oeffne |
-| --- | --- |
-| MyVuln live product | [https://myvuln.io/](https://myvuln.io/) |
-| PassMan release hub | [https://github.com/ucsahinn/passman](https://github.com/ucsahinn/passman) |
-| Codex Skill Forge | [https://github.com/ucsahinn/codex-skill-forge](https://github.com/ucsahinn/codex-skill-forge) |
-| Codex CLI Handbook | [https://github.com/ucsahinn/codex-cli-best-practice](https://github.com/ucsahinn/codex-cli-best-practice) |
-| Prompt Architect | [https://github.com/ucsahinn/codex-enterprise-prompt-architect](https://github.com/ucsahinn/codex-enterprise-prompt-architect) |
+1. Repository klonen oder aktualisieren.
+2. README, Sicherheitsdateien und Dokumentationskarte lesen.
+3. Die passenden Prüfungen ausführen.
+4. Nur explizit geänderte Dateien stagen.
+5. Vor Push oder Release Remote-Status, Secrets und Links erneut prüfen.
+
+## Entscheidungshilfe
+
+- Need repo-specific install commands -> open that repository README.
+- Need product release assets -> use the product repo release page, not this profile.
+- Need security disclosure -> use the target repo SECURITY file if it exists.
+- Need the high-level map -> stay on this profile README.
 
 ## Repository-Karte
 
-- README.md - canonical profile page
-- README.tr.md / README.de.md / README.es.md / README.pt-BR.md / README.fr.md - localized front doors
-- GitHub profile repositories - project-specific source of truth
+|Pfad | Warum es wichtig ist|
+|--- | ---|
+|[README.md](README.md) | canonical profile README and language gateway|
+|`README.de.md / README.es.md / README.pt-BR.md / README.tr.md / README.fr.md` | localized complete profile entry pages|
+|[assets/profile/](assets/profile/) | public SVG cards used by the profile|
+|[AGENTS.md](AGENTS.md) | repo-local working instructions|
 
-## Validierung und Release-Hygiene
+## Arbeitsablauf
 
-Vor Commit oder Veroeffentlichung sollten Links, Markdown, vorhandene Repo-Validierung und Gitleaks geprueft werden.
+1. Update profile copy from public repository facts only.
+2. Keep links to active public repos clear and current.
+3. Avoid stale claims about private work, user counts, rankings or unpublished releases.
+4. Run link and secret checks before pushing profile changes.
 
-Empfohlener Release-/Readiness-Pfad:
+## Befehle und Prüfung
 
-1. Relevante README und verlinkte Dokumente pruefen.
-2. Die Validierung des Repositories ausfuehren, wenn ein Befehl vorhanden ist.
-3. Markdown-Links und lokale Assets kontrollieren.
-4. Gitleaks oder den konfigurierten Secret Scan ausfuehren.
-5. Nach dem Push origin/main pruefen, bevor Veroeffentlichung als erledigt gemeldet wird.
+Führen Sie diese Befehle nur aus, wenn Sie das Repository lokal geclont haben und die Wirkung verstehen.
 
-## Sicherheits- und Public-Scope-Grenze
+```powershell
+git diff --check
+gitleaks dir . --no-banner --redact
+git status --short --branch
+```
 
-Die Profilseite verweist auf oeffentliche Repos und Live-Seiten. Private Produktquellen, Kundendaten, Secrets und lokale Operator-Pfade gehoeren nicht in diese Repo-Flaeche.
+## Validierungs-Checkliste
 
-## Mitwirken und Pflege
+- Language links point to existing files.
+- Profile assets render from tracked SVG files.
+- No private paths, local-only release files or token-like values appear in README content.
+- Remote main is checked after push.
 
-Halten Sie lokalisierte Seiten synchron mit der kanonischen README, wenn sich Scope, Installationsschritte, Release-Regeln oder Sicherheitsgrenzen aendern. Fuegen Sie keine Aussagen hinzu, die nicht durch Repository, Live-Produktdokumentation oder oeffentliche Release-Nachweise gedeckt sind.
+## Sicherheitsgrenze
 
-## Vollstaendigkeitsstandard
+- Routes visitors to active public projects without hiding the project boundaries.
+- Keeps language navigation visible at the top of the profile README.
+- Uses GitHub-native assets and workflow output only for public profile presentation.
+- Excludes private operational details, credentials, dashboards and customer data.
 
-Diese lokalisierte README ist keine Kurznotiz. Sie erklaert Zweck, Einstieg, Repository-Flaechen, Validierung, Sicherheitsgrenze und kanonische Referenzen.
+Public-safe rule: do not add secrets, tokens, cookies, private keys, private prompts, customer data, local-only auth files, generated logs, archives or build outputs unless the canonical README explicitly says they belong in the public repo.
 
-Kanonische Referenz: [README.md](README.md).
+## Release- und Publikationshygiene
+
+- Profile updates are documentation-only commits.
+- Do not attach build artifacts or installers to this repository.
+- Push only reviewed README and public asset changes.
+- Verify GitHub rendered README after remote update when the change affects visible profile layout.
+
+## Wartung
+
+- Keep this localized README aligned with README.md when the repo contract changes.
+- Prefer factual repo links over marketing claims.
+- Do not invent install commands, metrics, users, releases or support promises.
+- If a command is version-sensitive, re-check it before documenting it.
+- When a localized file cannot be updated fully, leave a clear note instead of a partial translation.
+
+## Beitragspfad
+
+- Open a focused change against the smallest set of files.
+- Read AGENTS.md or CONTRIBUTING.md when present before editing.
+- Run the repo validation commands listed above.
+- Review staged diffs explicitly before commit.
+- Use security disclosure paths instead of public issues for sensitive reports.
+
+## Definition von fertig
+
+Fertig bedeutet: Inhalt ist lokal vollständig, Links funktionieren, Sicherheitsgrenzen sind klar, Validierung ist gelaufen, Git ist sauber und der Remote-Stand ist nach dem Push geprüft.
+
+|Empfehlung | Warum es wichtig ist|
+|--- | ---|
+|Content | Public GitHub profile and repository gateway for Ulas Can Sahin.|
+|Links | All referenced local files must exist and resolve from the repository root.|
+|Security | Profile assets render from tracked SVG files.|
+|Verification | Prüfen Sie Struktur, Links, Markdown, Secrets, relevante Skripte und Remote-HEAD, bevor Sie eine öffentliche Aussage machen.|
+|Remote | After push, compare local HEAD with origin/main and GitHub remote HEAD.|
+
+## Wichtige Links
+
+|Pfad | Warum es wichtig ist|
+|--- | ---|
+|[Canonical README](README.md) | README.md|
+|[Repo instructions](AGENTS.md) | AGENTS.md|
+|[Profile assets](assets/profile/) | assets/profile/|

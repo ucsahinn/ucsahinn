@@ -1,59 +1,142 @@
-# Ulas Can Sahin
+# &#128640; Ulas Can Sahin - eksiksiz Türkçe README
 
-<p align="center">
-  <a href="README.de.md">&#127465;&#127466; Deutsch</a> ? <a href="README.es.md">&#127466;&#127480; Espa&ntilde;ol</a> ? <a href="README.md">&#127468;&#127463; English</a> ? <a href="README.pt-BR.md">&#127463;&#127479; Portugu&ecirc;s (Brasil)</a> ? <a href="README.tr.md">&#127481;&#127479; T&uuml;rk&ccedil;e</a> ? <a href="README.fr.md">&#127467;&#127479; French</a>
-</p>
+[&#127468;&#127463; English](README.md) | [&#127465;&#127466; Deutsch](README.de.md) | [&#127466;&#127480; Español](README.es.md) | [&#127463;&#127479; Português (Brasil)](README.pt-BR.md) | [&#127481;&#127479; Türkçe](README.tr.md) | [&#127467;&#127479; Français](README.fr.md)
 
-Security urunleri, self-hosted vault isleri, Codex workflow lari ve public-safe engineering dokumantasyonu icin public profil ve proje giris sayfasi.
+> Bu dosya kısa bir özet değil, tam Türkçe giriş sayfasıdır. Amaç, sınır, kullanım, doğrulama, güvenlik ve yayın akışını tek yerde anlatır.
+>
+> Kanonik İngilizce README: [README.md](README.md)
 
-## Bu repo neden var
+Public GitHub profile and repository gateway for Ulas Can Sahin.
 
-Security urunleri, self-hosted vault isleri, Codex workflow lari ve public-safe engineering dokumantasyonu icin public profil ve proje giris sayfasi.
+En güncel İngilizce anlatım için kanonik README ile başlayın. Aynı operasyonel sözleşmeyi Türkçe okumak için bu sayfayı kullanın.
 
-Bu lokalize giris sayfasi, okuyucunun repoyu kisa bir dil etiketine bakarak tahmin etmemesi icin tutulur. Derin kanonik referans README.md dosyasinda kalir; bu sayfa dogru baslangic noktasini, guvenlik sinirini ve dogrulama yolunu secmek icin yeterli baglam verir.
+## Durum ve güven sinyalleri
 
-## Kimler icin
+|Alan | Detay|
+|--- | ---|
+|Durum | Public repository: ucsahinn/ucsahinn|
+|Doğru kaynak | [Kanonik İngilizce README](README.md)|
+|Kullanıcılar | Visitors who want to understand what Ulas ships.; Recruiters or collaborators looking for public project context.|
+|Doğrulama | Language links point to existing files.; Profile assets render from tracked SVG files.|
+|Güvenlik | Routes visitors to active public projects without hiding the project boundaries.; Keeps language navigation visible at the top of the profile README.|
 
-MyVuln, PassMan veya Codex starter repolarini hizlica anlamak isteyen guvenlik ekipleri, operator lar, reviewer lar ve gelistiriciler.
+## Bu repo nedir
 
-## Hizli baslangic
+- A profile-level entry point for shipped public repositories.
+- A language-aware directory for Codex, security, product and documentation projects.
+- A lightweight trust surface that points readers to the right repository instead of duplicating every project page.
+- A place to show contribution signal, selected repository cards and current working areas.
 
-| Ihtiyacin varsa... | Ac |
-| --- | --- |
-| MyVuln live product | [https://myvuln.io/](https://myvuln.io/) |
-| PassMan release hub | [https://github.com/ucsahinn/passman](https://github.com/ucsahinn/passman) |
-| Codex Skill Forge | [https://github.com/ucsahinn/codex-skill-forge](https://github.com/ucsahinn/codex-skill-forge) |
-| Codex CLI Handbook | [https://github.com/ucsahinn/codex-cli-best-practice](https://github.com/ucsahinn/codex-cli-best-practice) |
-| Prompt Architect | [https://github.com/ucsahinn/codex-enterprise-prompt-architect](https://github.com/ucsahinn/codex-enterprise-prompt-architect) |
+## Ne değildir
 
-## Repo haritasi
+- Not the source of truth for each product or package.
+- Not a release channel for installers or archives.
+- Not a place for private client, token, billing or infrastructure details.
+- Not a replacement for each repository README, SECURITY file or release notes.
 
-- README.md - canonical profile page
-- README.tr.md / README.de.md / README.es.md / README.pt-BR.md / README.fr.md - localized front doors
-- GitHub profile repositories - project-specific source of truth
+## Kimler için
 
-## Validasyon ve release hijyeni
+- Visitors who want to understand what Ulas ships.
+- Recruiters or collaborators looking for public project context.
+- Users who need the right repo quickly.
+- Maintainers checking that the profile stays public-safe.
 
-Commit veya yayin oncesinde linkler, Markdown, mevcut repo validasyonu ve Gitleaks kontrol edilmelidir.
+## Hızlı başlangıç
 
-Onerilen release/readiness yolu:
+1. Repoyu klonla veya güncelle.
+2. README, güvenlik ve doküman haritasını oku.
+3. Uygun doğrulamaları çalıştır.
+4. Sadece bilinçli değişen dosyaları stage et.
+5. Push veya release öncesi remote, secret ve link kontrollerini tekrar yap.
 
-1. Ilgili README ve bagli dokumanlari incele.
-2. Repo validasyon komutu varsa calistir.
-3. Markdown linklerini ve lokal assetleri kontrol et.
-4. Gitleaks veya yapilandirilmis secret scan i calistir.
-5. Push sonrasi yayinin bittigini soylemeden once origin/main dogrulamasi yap.
+## Karar rehberi
 
-## Guvenlik ve public scope siniri
+- Need repo-specific install commands -> open that repository README.
+- Need product release assets -> use the product repo release page, not this profile.
+- Need security disclosure -> use the target repo SECURITY file if it exists.
+- Need the high-level map -> stay on this profile README.
 
-Profil sayfasi public repolara ve canli yuzeylere gider. Private kaynak kod, musteri verisi, secret ve local operator path bu repo yuzeyinde tutulmaz.
+## Repo haritası
 
-## Katki ve bakim
+|Yol | Neden önemli|
+|--- | ---|
+|[README.md](README.md) | canonical profile README and language gateway|
+|`README.de.md / README.es.md / README.pt-BR.md / README.tr.md / README.fr.md` | localized complete profile entry pages|
+|[assets/profile/](assets/profile/) | public SVG cards used by the profile|
+|[AGENTS.md](AGENTS.md) | repo-local working instructions|
 
-Scope, kurulum adimlari, release kurallari veya guvenlik sinirlari degistiginde lokalize sayfalari kanonik README ile ayni cizgide tut. Repo, canli urun dokumani veya public release kanitiyla desteklenmeyen iddia ekleme.
+## Çalışma akışı
 
-## Eksiksizlik standardi
+1. Update profile copy from public repository facts only.
+2. Keep links to active public repos clear and current.
+3. Avoid stale claims about private work, user counts, rankings or unpublished releases.
+4. Run link and secret checks before pushing profile changes.
 
-Bu lokalize README kisa not degildir. Amac, baslangic, repo yuzeyleri, validasyon, guvenlik siniri ve kanonik referanslari aciklar.
+## Komutlar ve doğrulama
 
-Kanonik referans: [README.md](README.md).
+Bu komutları sadece repoyu yerelde klonladıktan ve neyi kontrol ettiklerini anladıktan sonra çalıştırın.
+
+```powershell
+git diff --check
+gitleaks dir . --no-banner --redact
+git status --short --branch
+```
+
+## Doğrulama listesi
+
+- Language links point to existing files.
+- Profile assets render from tracked SVG files.
+- No private paths, local-only release files or token-like values appear in README content.
+- Remote main is checked after push.
+
+## Güvenlik sınırı
+
+- Routes visitors to active public projects without hiding the project boundaries.
+- Keeps language navigation visible at the top of the profile README.
+- Uses GitHub-native assets and workflow output only for public profile presentation.
+- Excludes private operational details, credentials, dashboards and customer data.
+
+Public-safe rule: do not add secrets, tokens, cookies, private keys, private prompts, customer data, local-only auth files, generated logs, archives or build outputs unless the canonical README explicitly says they belong in the public repo.
+
+## Release ve yayın hijyeni
+
+- Profile updates are documentation-only commits.
+- Do not attach build artifacts or installers to this repository.
+- Push only reviewed README and public asset changes.
+- Verify GitHub rendered README after remote update when the change affects visible profile layout.
+
+## Bakım
+
+- Keep this localized README aligned with README.md when the repo contract changes.
+- Prefer factual repo links over marketing claims.
+- Do not invent install commands, metrics, users, releases or support promises.
+- If a command is version-sensitive, re-check it before documenting it.
+- When a localized file cannot be updated fully, leave a clear note instead of a partial translation.
+
+## Katkı yolu
+
+- Open a focused change against the smallest set of files.
+- Read AGENTS.md or CONTRIBUTING.md when present before editing.
+- Run the repo validation commands listed above.
+- Review staged diffs explicitly before commit.
+- Use security disclosure paths instead of public issues for sensitive reports.
+
+## Bitti tanımı
+
+Bitti demek: içerik tam, linkler doğru, güvenlik sınırı net, doğrulama çalışmış, Git temiz ve push sonrası remote HEAD kontrol edilmiş demektir.
+
+|Öneri | Neden önemli|
+|--- | ---|
+|Content | Public GitHub profile and repository gateway for Ulas Can Sahin.|
+|Links | All referenced local files must exist and resolve from the repository root.|
+|Security | Profile assets render from tracked SVG files.|
+|Verification | Public bir iddia vermeden önce yapıyı, linkleri, Markdown’u, secret taramasını, ilgili scriptleri ve remote HEAD’i doğrula.|
+|Remote | After push, compare local HEAD with origin/main and GitHub remote HEAD.|
+
+## Önemli bağlantılar
+
+|Yol | Neden önemli|
+|--- | ---|
+|[Canonical README](README.md) | README.md|
+|[Repo instructions](AGENTS.md) | AGENTS.md|
+|[Profile assets](assets/profile/) | assets/profile/|
