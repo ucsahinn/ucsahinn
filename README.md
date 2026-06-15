@@ -1,8 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;color=0:020617,42:0f766e,100:f59e0b&amp;section=header&amp;text=&amp;fontColor=fff7ed&amp;fontSize=48&amp;fontAlignY=34&amp;desc=MyVuln%20%C2%B7%20PassMan%20%C2%B7%20Codex%20workflows%20%C2%B7%20Security%20products&amp;descAlignY=58&amp;descSize=15" alt="Ulaş Can Şahin profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=210&amp;color=0:020617,42:0f766e,100:f59e0b&amp;section=header&amp;text=Ula%C5%9F%20Can%20%C5%9Eahin&amp;fontColor=fff7ed&amp;fontSize=42&amp;fontAlignY=34&amp;desc=Security%20products%20%C2%B7%20Codex%20systems%20%C2%B7%20Windows-first%20release%20engineering&amp;descAlignY=58&amp;descSize=15" alt="Ulaş Can Şahin profile banner" />
 
-<h3>Security product builder focused on vulnerability intelligence, self-hosted vaults and Codex-driven engineering systems.</h3>
+<h2>Security products, public trust surfaces and Codex-driven engineering systems.</h2>
+
+<p>
+  🔐 <strong>MyVuln</strong> for vulnerability intelligence ·
+  🗝️ <strong>PassMan</strong> for self-hosted enterprise vaults ·
+  🛠️ <strong>Codex Skill Forge</strong> for reusable AI-engineering workflows
+</p>
 
 <p>
   🌐 <strong>Languages:</strong>
@@ -11,7 +17,7 @@
   <a href="README.md">🇬🇧 English</a> ·
   <a href="README.pt-BR.md">🇧🇷 Português (Brasil)</a> ·
   <a href="README.tr.md">🇹🇷 Türkçe</a> ·
-  <a href="README.fr.md">🇫🇷 French</a>
+  <a href="README.fr.md">🇫🇷 Français</a>
 </p>
 
 <p>
@@ -27,8 +33,11 @@
   <a href="https://github.com/ucsahinn/context-engineering-project-starter">
     <img src="https://img.shields.io/badge/Context%20Engineering-starter-7c3aed?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Context Engineering Project Starter" />
   </a>
-  <a href="https://github.com/ucsahinn/codex-enterprise-starter">
-    <img src="https://img.shields.io/badge/Codex%20Enterprise-starter-0f172a?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Codex Enterprise Starter" />
+  <a href="https://github.com/ucsahinn/codex-skill-forge">
+    <img src="https://img.shields.io/badge/Codex%20Skill%20Forge-public-111827?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Codex Skill Forge" />
+  </a>
+  <a href="https://github.com/ucsahinn/codex-cli-best-practice">
+    <img src="https://img.shields.io/badge/Codex%20CLI-handbook-2563eb?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Codex CLI Operator Handbook" />
   </a>
   <a href="https://siberdergi.net">
     <img src="https://img.shields.io/badge/SiberDergi-live-111827?style=for-the-badge&amp;logo=firefox-browser&amp;logoColor=white" alt="SiberDergi live" />
@@ -36,8 +45,8 @@
 </p>
 
 <p>
-  I build public-safe trust surfaces for security products:
-  live demos, release hubs, operator docs, support boundaries and repeatable agent workflows.
+  I ship public-safe security product hubs, release documentation, operator runbooks,
+  skill/plugin tooling and repeatable verification workflows that people can clone, inspect and trust.
 </p>
 
 <p>
@@ -54,37 +63,39 @@
 
 ---
 
-## Start Here
+## 🧭 Start Here
 
 | If you are looking for... | Start with |
 | --- | --- |
-| Threat intelligence and CVE workflows | [MyVuln live product](https://myvuln.io/) and [public repository](https://github.com/ucsahinn/myvuln) |
-| Self-hosted password and secret management | [PassMan release hub](https://github.com/ucsahinn/passman) |
-| AI-coding project context and guardrails | [Context Engineering Project Starter](https://github.com/ucsahinn/context-engineering-project-starter) |
-| Enterprise Codex setup with skills, agents, MCP and approval flags | [Codex Enterprise Starter](https://github.com/ucsahinn/codex-enterprise-starter) |
-| Codex prompt systems for engineering workflows | [Codex Enterprise Prompt Architect](https://github.com/ucsahinn/codex-enterprise-prompt-architect) |
-| Turkish cybersecurity content | [SiberDergi](https://siberdergi.net) |
+| 🛡️ Vulnerability intelligence and CVE workflows | [MyVuln live product](https://myvuln.io/) and [public hub](https://github.com/ucsahinn/myvuln) |
+| 🔐 Self-hosted password and secret management | [PassMan release and docs hub](https://github.com/ucsahinn/passman) |
+| 🛠️ Create reusable Codex skills and plugins | [Codex Skill Forge](https://github.com/ucsahinn/codex-skill-forge) |
+| 🧠 Operate Codex CLI safely with skills, agents, MCP and hooks | [Codex CLI Operator Handbook](https://github.com/ucsahinn/codex-cli-best-practice) |
+| ✍️ Build source-backed implementation prompts | [Codex Enterprise Prompt Architect](https://github.com/ucsahinn/codex-enterprise-prompt-architect) |
+| 🧩 Start context-heavy AI-coding repos | [Context Engineering Project Starter](https://github.com/ucsahinn/context-engineering-project-starter) |
+| 🇹🇷 Turkish cybersecurity content | [SiberDergi](https://siberdergi.net) |
 
-## What I Ship
+## 🚀 What I Ship
 
-- Public-safe product hubs for security tools whose source code or operational data must stay private.
-- Self-hosted Windows release surfaces with signed manifests, operator runbooks and support evidence rules.
-- AI-assisted engineering workflows that force skill routing, agent delegation, scoped execution, verification and clean handoff.
-- Turkish and English documentation for operators, buyers and technical reviewers.
+- 🔐 Public-safe product hubs for security tools whose source code or operational data must stay private.
+- 🪟 Self-hosted Windows release surfaces with manifests, operator runbooks and support evidence rules.
+- 🧠 AI-assisted engineering workflows with skill routing, agent delegation, scoped execution, verification and clean handoff.
+- 📚 Turkish and English documentation for operators, buyers and technical reviewers.
+- ✅ Public repos that try to be cloneable, inspectable, validated and useful without private context.
 
-## Operating Loop
+## ⚙️ Operating Loop
 
 | Step | How I use it |
 | --- | --- |
-| Research | Read the repo, docs, threat boundaries and release context before changing anything. |
-| Plan | Turn fuzzy goals into scoped work, verification gates and rollback-aware steps. |
-| Execute | Ship focused changes without weakening security, validation or support boundaries. |
-| Verify | Run the narrowest useful checks first, then broaden when the blast radius requires it. |
-| Ship | Publish clean docs, releases and handoff notes that a reviewer can trust. |
+| 🔎 Research | Read the repo, docs, threat boundaries and release context before changing anything. |
+| 🧭 Plan | Turn fuzzy goals into scoped work, verification gates and rollback-aware steps. |
+| 🛠️ Execute | Ship focused changes without weakening security, validation or support boundaries. |
+| ✅ Verify | Run the narrowest useful checks first, then broaden when the blast radius requires it. |
+| 🚢 Ship | Publish clean docs, releases and handoff notes that a reviewer can trust. |
 
-## Featured Repos Worth Checking
+## ⭐ Featured Repos Worth Checking
 
-If you want to follow or star something useful, start with these:
+If you want to follow or star something useful, start with these public projects:
 
 <table>
   <tr>
@@ -150,21 +161,35 @@ If you want to follow or star something useful, start with these:
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <a href="https://github.com/ucsahinn/codex-enterprise-starter">
-        <img width="100%" src="./assets/profile/enterprise-starter-card.svg" alt="Codex Enterprise Starter repository card" />
+    <td width="50%" valign="top">
+      <a href="https://github.com/ucsahinn/codex-skill-forge">
+        <img width="100%" src="./assets/profile/skill-forge-card.svg" alt="Codex Skill Forge repository card" />
       </a>
       <br />
-      <a href="https://github.com/ucsahinn/codex-enterprise-starter/stargazers">
-        <img src="https://img.shields.io/github/stars/ucsahinn/codex-enterprise-starter?style=flat-square&amp;logo=github&amp;label=stars&amp;color=f59e0b" alt="Codex Enterprise Starter stars" />
+      <a href="https://github.com/ucsahinn/codex-skill-forge/stargazers">
+        <img src="https://img.shields.io/github/stars/ucsahinn/codex-skill-forge?style=flat-square&amp;logo=github&amp;label=stars&amp;color=f59e0b" alt="Codex Skill Forge stars" />
       </a>
-      <a href="https://github.com/ucsahinn/codex-enterprise-starter/commits/main">
-        <img src="https://img.shields.io/github/last-commit/ucsahinn/codex-enterprise-starter?style=flat-square&amp;logo=git&amp;color=0f766e" alt="Codex Enterprise Starter last commit" />
+      <a href="https://github.com/ucsahinn/codex-skill-forge/commits/main">
+        <img src="https://img.shields.io/github/last-commit/ucsahinn/codex-skill-forge?style=flat-square&amp;logo=git&amp;color=0f766e" alt="Codex Skill Forge last commit" />
       </a>
-      <a href="https://github.com/ucsahinn/codex-enterprise-starter/blob/main/README.tr.md">
-        <img src="https://img.shields.io/badge/TR%20docs-ready-b91c1c?style=flat-square&amp;logo=readthedocs&amp;logoColor=white" alt="Codex Enterprise Starter Turkish docs" />
+      <a href="https://github.com/ucsahinn/codex-skill-forge/blob/main/plugins/codex-skill-forge/skills/codex-skill-forge/SKILL.md">
+        <img src="https://img.shields.io/badge/SKILL.md-ready-111827?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="Codex Skill Forge skill file" />
       </a>
-      <img src="https://img.shields.io/badge/skills%20%2B%20agents-routed-111827?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="Skills and agents routed" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ucsahinn/codex-cli-best-practice">
+        <img width="100%" src="./assets/profile/codex-handbook-card.svg" alt="Codex CLI Operator Handbook repository card" />
+      </a>
+      <br />
+      <a href="https://github.com/ucsahinn/codex-cli-best-practice/stargazers">
+        <img src="https://img.shields.io/github/stars/ucsahinn/codex-cli-best-practice?style=flat-square&amp;logo=github&amp;label=stars&amp;color=f59e0b" alt="Codex CLI Operator Handbook stars" />
+      </a>
+      <a href="https://github.com/ucsahinn/codex-cli-best-practice/commits/main">
+        <img src="https://img.shields.io/github/last-commit/ucsahinn/codex-cli-best-practice?style=flat-square&amp;logo=git&amp;color=2563eb" alt="Codex CLI Operator Handbook last commit" />
+      </a>
+      <a href="https://github.com/ucsahinn/codex-cli-best-practice/blob/main/best-practice/codex-skills.md">
+        <img src="https://img.shields.io/badge/Codex%20docs-ready-2563eb?style=flat-square&amp;logo=readthedocs&amp;logoColor=white" alt="Codex CLI Operator Handbook docs" />
+      </a>
     </td>
   </tr>
   <tr>
