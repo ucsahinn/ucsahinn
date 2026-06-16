@@ -5,9 +5,9 @@
 <h2>Security products, public trust surfaces and Codex-driven engineering systems.</h2>
 
 <p>
-  🔐 <strong>MyVuln</strong> for vulnerability intelligence ·
-  🗝️ <strong>PassMan</strong> for self-hosted enterprise vaults ·
-  🛠️ <strong>Codex Skill Forge</strong> for reusable AI-engineering workflows
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f510.svg" alt="" aria-hidden="true" width="20"> <strong>MyVuln</strong> for vulnerability intelligence ·
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f5dd.svg" alt="" aria-hidden="true" width="20"> <strong>PassMan</strong> for self-hosted enterprise vaults ·
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6e0.svg" alt="" aria-hidden="true" width="20"> <strong>Codex Skill Forge</strong> for reusable AI-engineering workflows
 </p>
 
 <p>
@@ -64,37 +64,37 @@
 
 ---
 
-## 🧭 Start Here
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9ed.svg" alt="" aria-hidden="true" width="20"> Start Here
 
 | If you are looking for... | Start with |
 | --- | --- |
-| 🛡️ Vulnerability intelligence and CVE workflows | [MyVuln live product](https://myvuln.io/) and [public hub](https://github.com/ucsahinn/myvuln) |
-| 🔐 Self-hosted password and secret management | [PassMan release and docs hub](https://github.com/ucsahinn/passman) |
-| 🛠️ Create reusable Codex skills and plugins | [Codex Skill Forge](https://github.com/ucsahinn/codex-skill-forge) |
-| 🧠 Operate Codex CLI safely with skills, agents, MCP and hooks | [Codex CLI Operator Handbook](https://github.com/ucsahinn/codex-cli-best-practice) |
-| ✍️ Build source-backed implementation prompts | [Codex Enterprise Prompt Architect](https://github.com/ucsahinn/codex-enterprise-prompt-architect) |
-| 🧩 Start context-heavy AI-coding repos | [Context Engineering Project Starter](https://github.com/ucsahinn/context-engineering-project-starter) |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6e1.svg" alt="" aria-hidden="true" width="20"> Vulnerability intelligence and CVE workflows | [MyVuln live product](https://myvuln.io/) and [public hub](https://github.com/ucsahinn/myvuln) |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f510.svg" alt="" aria-hidden="true" width="20"> Self-hosted password and secret management | [PassMan release and docs hub](https://github.com/ucsahinn/passman) |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6e0.svg" alt="" aria-hidden="true" width="20"> Create reusable Codex skills and plugins | [Codex Skill Forge](https://github.com/ucsahinn/codex-skill-forge) |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9e0.svg" alt="" aria-hidden="true" width="20"> Operate Codex CLI safely with skills, agents, MCP and hooks | [Codex CLI Operator Handbook](https://github.com/ucsahinn/codex-cli-best-practice) |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/270d.svg" alt="" aria-hidden="true" width="20"> Build source-backed implementation prompts | [Codex Enterprise Prompt Architect](https://github.com/ucsahinn/codex-enterprise-prompt-architect) |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9e9.svg" alt="" aria-hidden="true" width="20"> Start context-heavy AI-coding repos | [Context Engineering Project Starter](https://github.com/ucsahinn/context-engineering-project-starter) |
 | <img src="https://flagcdn.com/w20/tr.png" alt="Turkish" width="20"> Turkish cybersecurity content | [SiberDergi](https://siberdergi.net) |
 
-## 🚀 What I Ship
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f680.svg" alt="" aria-hidden="true" width="20"> What I Ship
 
-- 🔐 Public-safe product hubs for security tools whose source code or operational data must stay private.
-- 🪟 Self-hosted Windows release surfaces with manifests, operator runbooks and support evidence rules.
-- 🧠 AI-assisted engineering workflows with skill routing, agent delegation, scoped execution, verification and clean handoff.
-- 📚 Turkish and English documentation for operators, buyers and technical reviewers.
-- ✅ Public repos that try to be cloneable, inspectable, validated and useful without private context.
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f510.svg" alt="" aria-hidden="true" width="20"> Public-safe product hubs for security tools whose source code or operational data must stay private.
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1fa9f.svg" alt="" aria-hidden="true" width="20"> Self-hosted Windows release surfaces with manifests, operator runbooks and support evidence rules.
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9e0.svg" alt="" aria-hidden="true" width="20"> AI-assisted engineering workflows with skill routing, agent delegation, scoped execution, verification and clean handoff.
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4da.svg" alt="" aria-hidden="true" width="20"> Turkish and English documentation for operators, buyers and technical reviewers.
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2705.svg" alt="" aria-hidden="true" width="20"> Public repos that try to be cloneable, inspectable, validated and useful without private context.
 
-## ⚙️ Operating Loop
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2699.svg" alt="" aria-hidden="true" width="20"> Operating Loop
 
 | Step | How I use it |
 | --- | --- |
-| 🔎 Research | Read the repo, docs, threat boundaries and release context before changing anything. |
-| 🧭 Plan | Turn fuzzy goals into scoped work, verification gates and rollback-aware steps. |
-| 🛠️ Execute | Ship focused changes without weakening security, validation or support boundaries. |
-| ✅ Verify | Run the narrowest useful checks first, then broaden when the blast radius requires it. |
-| 🚢 Ship | Publish clean docs, releases and handoff notes that a reviewer can trust. |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f50e.svg" alt="" aria-hidden="true" width="20"> Research | Read the repo, docs, threat boundaries and release context before changing anything. |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9ed.svg" alt="" aria-hidden="true" width="20"> Plan | Turn fuzzy goals into scoped work, verification gates and rollback-aware steps. |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6e0.svg" alt="" aria-hidden="true" width="20"> Execute | Ship focused changes without weakening security, validation or support boundaries. |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2705.svg" alt="" aria-hidden="true" width="20"> Verify | Run the narrowest useful checks first, then broaden when the blast radius requires it. |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6a2.svg" alt="" aria-hidden="true" width="20"> Ship | Publish clean docs, releases and handoff notes that a reviewer can trust. |
 
-## ⭐ Featured Repos Worth Checking
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2b50.svg" alt="" aria-hidden="true" width="20"> Featured Repos Worth Checking
 
 If you want to follow or star something useful, start with these public projects:
 
