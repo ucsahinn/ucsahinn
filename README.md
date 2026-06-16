@@ -11,13 +11,13 @@
 </p>
 
 <p>
-  🌐 <strong>Languages:</strong>
-  <a href="README.de.md"><img src="https://flagcdn.com/w20/de.png" alt="Deutsch" width="20"></a> ·
-  <a href="README.es.md"><img src="https://flagcdn.com/w20/es.png" alt="Español" width="20"></a> ·
-  <a href="README.md"><img src="https://flagcdn.com/w20/gb.png" alt="English" width="20"></a> ·
-  <a href="README.pt-BR.md"><img src="https://flagcdn.com/w20/br.png" alt="Português (Brasil)" width="20"></a> ·
-  <a href="README.tr.md"><img src="https://flagcdn.com/w20/tr.png" alt="Türkçe" width="20"></a> ·
-  <a href="README.fr.md"><img src="https://flagcdn.com/w20/fr.png" alt="Français" width="20"></a>
+  &#127760; <strong>Languages:</strong>
+  <a href="README.de.md"><img src="https://flagcdn.com/w20/de.png" alt="Deutsch" width="20"></a> |
+  <a href="README.es.md"><img src="https://flagcdn.com/w20/es.png" alt="Espa&#241;ol" width="20"></a> |
+  <a href="README.md"><img src="https://flagcdn.com/w20/gb.png" alt="English" width="20"></a> |
+  <a href="README.pt-BR.md"><img src="https://flagcdn.com/w20/br.png" alt="Portugu&#234;s (Brasil)" width="20"></a> |
+  <a href="README.tr.md"><img src="https://flagcdn.com/w20/tr.png" alt="T&#252;rk&#231;e" width="20"></a> |
+  <a href="README.fr.md"><img src="https://flagcdn.com/w20/fr.png" alt="Fran&#231;ais" width="20"></a>
 </p>
 
 <p>
@@ -39,6 +39,7 @@
   <a href="https://github.com/ucsahinn/codex-cli-best-practice">
     <img src="https://img.shields.io/badge/Codex%20CLI-handbook-2563eb?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Codex CLI Operator Handbook" />
   </a>
+  <a href="README.md"><img alt="README languages" src="https://img.shields.io/badge/README-6%20languages-0f766e?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" /></a>
   <a href="https://siberdergi.net">
     <img src="https://img.shields.io/badge/SiberDergi-live-111827?style=for-the-badge&amp;logo=firefox-browser&amp;logoColor=white" alt="SiberDergi live" />
   </a>
@@ -73,7 +74,7 @@
 | 🧠 Operate Codex CLI safely with skills, agents, MCP and hooks | [Codex CLI Operator Handbook](https://github.com/ucsahinn/codex-cli-best-practice) |
 | ✍️ Build source-backed implementation prompts | [Codex Enterprise Prompt Architect](https://github.com/ucsahinn/codex-enterprise-prompt-architect) |
 | 🧩 Start context-heavy AI-coding repos | [Context Engineering Project Starter](https://github.com/ucsahinn/context-engineering-project-starter) |
-| 🇹🇷 Turkish cybersecurity content | [SiberDergi](https://siberdergi.net) |
+| <img src="https://flagcdn.com/w20/tr.png" alt="Turkish" width="20"> Turkish cybersecurity content | [SiberDergi](https://siberdergi.net) |
 
 ## 🚀 What I Ship
 
